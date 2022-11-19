@@ -1,4 +1,4 @@
-.feinman__link {
+.feynman__link {
   position: absolute;
   top: 50%;
   right: 48px;
@@ -10,11 +10,11 @@
   transition: opacity 1s;
 }
 
-.feinman__link::after {
+.feynman__link::after {
   content: " →";
 }
 
-.feinman__link:hover {
+.feynman__link:hover {
   opacity: 0.3;
 }
 
